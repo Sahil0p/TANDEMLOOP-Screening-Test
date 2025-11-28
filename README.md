@@ -68,17 +68,22 @@ The solutions are written in **Python 3.x** and are designed to be **user-friend
 
 - Generates odd numbers up to a given number a
 - File: Program-2.py
-> Output example:
-  > `Enter a number: 4`
-  > `Output: 1, 3, 5, 7`
+- Output example:
+  ```
+  Enter a number: 4
+  Output: 1, 3, 5, 7
+  ```
+  
 
 ### **Problem-3: Odd Series with Even Adjustment**
 
 - Generates odd numbers up to a if a is odd, or up to a-1 if a is even
 - File: `Program-3.py`
-> Output example:
-  > `Enter a number: 6`
-  > `Output: 1, 3, 5`
+- Output example:
+  ```
+  Enter a number: 6
+  Output: 1, 3, 5
+  ```
 
 
 ### **Problem-4: Count Multiples in a List**
@@ -86,9 +91,11 @@ The solutions are written in **Python 3.x** and are designed to be **user-friend
 - Accepts user input in flexible formats: commas, spaces, or continuous digits
 - Counts multiples of numbers 1–9
 - File: Program-4.py
-> Output example:
-> Enter numbers: 1,2,8,9,12,46,76,82,15,20,30
-> Output: {1: 11, 2: 8, 3: 4, 4: 4, 5: 3, 6: 2, 7: 0, 8: 1, 9: 1}
+- Output example:
+  ```
+  Enter numbers: 1,2,8,9,12,46,76,82,15,20,30
+  Output: {1: 11, 2: 8, 3: 4, 4: 4, 5: 3, 6: 2, 7: 0, 8: 1, 9: 1}
+  ```
 
 ---
 
