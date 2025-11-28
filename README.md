@@ -23,9 +23,7 @@ The solutions are written in **Python 3.x** and are designed to be **user-friend
    - Make sure **Python 3.x** is installed on your system.
    - Open a terminal or command prompt and navigate to the repository folder.
    - Run a program using:
-     ```bash
-     python Program-1.py
-     ```
+     `python Program-1.py`
 ---
 
 ## ⚙️ Input Guidelines
