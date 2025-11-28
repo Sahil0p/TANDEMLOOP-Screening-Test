@@ -87,8 +87,8 @@ The solutions are written in **Python 3.x** and are designed to be **user-friend
 - Counts multiples of numbers 1–9
 - File: Program-4.py
 > Output example:
-  > Enter numbers: 1,2,8,9,12,46,76,82,15,20,30
-  > Output: {1: 11, 2: 8, 3: 4, 4: 4, 5: 3, 6: 2, 7: 0, 8: 1, 9: 1}
+> Enter numbers: 1,2,8,9,12,46,76,82,15,20,30
+> Output: {1: 11, 2: 8, 3: 4, 4: 4, 5: 3, 6: 2, 7: 0, 8: 1, 9: 1}
 
 ---
 
