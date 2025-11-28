@@ -53,7 +53,7 @@ The solutions are written in **Python 3.x** and are designed to be **user-friend
 - Class-based implementation
 - File: `Program-1.py`
 - Output Examples:
-  - ```bash
+   ```bash
     --- Simple Calculator ---
     1. Perform Calculation
     2. Exit
@@ -62,7 +62,7 @@ The solutions are written in **Python 3.x** and are designed to be **user-friend
     Enter second number: 20
     Enter operation (add / sub / mul / div): add
     Result: 30.0
-  - ```
+   ```
 
 ### **Problem-2: Odd Number Series**
 
